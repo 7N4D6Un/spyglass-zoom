@@ -5,11 +5,9 @@
 
   "name": "Spyglass Zoom",
   "description": "A mod that lets you adjust the zoom on the spyglass.",
-  "authors": ["guardian", "cobrasrock"],
+  "authors": ["FleTime", "guardian", "cobrasrock"],
   "contact": {
-    "homepage": "https://modrinth.com/mod/spyzoom-updated",
-    "sources": "https://github.com/Guardian259/spyglass-zoom",
-    "issues": "https://github.com/Guardian259/spyglass-zoom/issues"
+    "sources": "https://github.com/7N4D6Un/spyglass-zoom"
   },
 
   "license": "GNU-LGPL-3",
@@ -26,8 +24,8 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.16.10",
-    "minecraft": ">=1.21.2",
-    "java": ">=21"
+    "fabricloader": ">=0.19.1",
+    "minecraft": ">=26.1",
+    "java": ">=25"
   }
 }

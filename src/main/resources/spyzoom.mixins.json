@@ -2,12 +2,12 @@
   "required": true,
   "minVersion": "0.8",
   "package": "net.cobrasrock.spyzoom.mixin",
-  "compatibilityLevel": "JAVA_16",
+  "compatibilityLevel": "JAVA_25",
   "client": [
     "PlayerInventoryMixin",
-    "MouseMixin",
-    "GameRendererMixin",
-    "SpyglassItemMixin"
+    "SpyglassItemMixin",
+    "PlayerFovMixin",
+    "MouseHandlerMixin"
   ],
   "injectors": {
     "defaultRequire": 1
