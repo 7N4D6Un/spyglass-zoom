@@ -4,7 +4,6 @@
   "package": "net.cobrasrock.spyzoom.mixin",
   "compatibilityLevel": "JAVA_25",
   "client": [
-    "PlayerInventoryMixin",
     "SpyglassItemMixin",
     "PlayerFovMixin",
     "MouseHandlerMixin"
